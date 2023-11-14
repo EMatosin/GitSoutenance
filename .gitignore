@@ -70,3 +70,11 @@ dkms.conf
 # Ignore all local history of files
 .history
 .ionide
+
+### Linter
+
+.eslintrc.js
+node_modules/
+package-lock.json
+package.json
+
